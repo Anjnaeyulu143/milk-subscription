@@ -4,7 +4,7 @@ const SubscriptionContainer = () => {
   const plans = [
     {
       title: "Combo (1 Ltr Milk + Pure Buffalo Curd)",
-      price: "₹89",
+      price: "₹95",
       description: "1 Ltr + 250gm, the best value!",
     },
     {
@@ -14,7 +14,7 @@ const SubscriptionContainer = () => {
     },
     {
       title: "250gm Pure Buffalo Curd",
-      price: "₹29",
+      price: "₹35",
       description: "Compact and convenient.",
     },
     {
